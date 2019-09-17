@@ -1,6 +1,9 @@
 #!/bin/bash
 #set -e
 
+# The idea from 
+# https://gist.github.com/vivianspencer/bc86e2765fc4df09795e
+
 PROXY="$1"
 SMTP_USER=""
 SMTP_PASSWD=""
